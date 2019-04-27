@@ -6,4 +6,3 @@ function NguoiDung(taiKhoan, matKhau, hoTen, email, SoDienThoai, loaiNguoiDung) 
   this.SoDT = SoDienThoai;
   this.MaLoaiNguoiDung = loaiNguoiDung;
 }
-//cho duy
